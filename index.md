@@ -13,7 +13,7 @@ The course should offer optional pre-lecture videos introducing key concepts bef
 
 We combined survey data from 764 students and explored the relationship between prior experience, difficulty, understanding, and support for pre-lecture videos.
 
-### Difficulty by Prior Experience
+### Pre-lecture support by prior experience
 
 <!-- Replace the path below with the path to your boxplot screenshot -->
 <img src="box-plot.png" alt="Boxplot of difficulty by prior experience level" width="600"/>
